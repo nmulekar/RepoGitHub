@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="Test">
+    <classes>
+      <class name="com.jbk.Test2"/>
+      <class name="com.jbk.Test1"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="com.jbk.Test1">
+        <methods>
+          <include name="click_OnUser"/>
+          <include name="setup_Browser"/>
+        </methods>
+      </class> <!-- com.jbk.Test1 -->
+      <class name="com.jbk.Test2">
+        <methods>
+          <include name="setup_Browser"/>
+          <include name="Valid_username_password"/>
+          <include name="Verify_Url_DashBoard"/>
+        </methods>
+      </class> <!-- com.jbk.Test2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
