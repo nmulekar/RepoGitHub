@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3359" started-at="2019-04-24T05:53:04Z" finished-at="2019-04-24T05:53:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3359" started-at="2019-04-24T05:53:04Z" finished-at="2019-04-24T05:53:07Z">
+      <class name="com.jbk.qa.Tests.HomePageTestCases">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="SetUp" is-config="true" duration-ms="6511" started-at="2019-04-24T11:22:58Z" finished-at="2019-04-24T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateLoginPageTitle()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateLoginPageTitle" duration-ms="15" started-at="2019-04-24T11:23:04Z" finished-at="2019-04-24T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginPageTitle -->
+        <test-method status="PASS" signature="ValidateJbkLogo()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateJbkLogo" duration-ms="48" started-at="2019-04-24T11:23:04Z" finished-at="2019-04-24T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateJbkLogo -->
+        <test-method status="PASS" signature="ValidateOfficeEnquiry()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateOfficeEnquiry" duration-ms="32" started-at="2019-04-24T11:23:04Z" finished-at="2019-04-24T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateOfficeEnquiry -->
+        <test-method status="PASS" signature="ValidateWhatsAppNumber()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateWhatsAppNumber" duration-ms="39" started-at="2019-04-24T11:23:04Z" finished-at="2019-04-24T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateWhatsAppNumber -->
+        <test-method status="PASS" signature="ValidateTagLine()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateTagLine" duration-ms="31" started-at="2019-04-24T11:23:04Z" finished-at="2019-04-24T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTagLine -->
+        <test-method status="PASS" signature="ValidateLiveVideosButton()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateLiveVideosButton" duration-ms="2338" started-at="2019-04-24T11:23:04Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLiveVideosButton -->
+        <test-method status="PASS" signature="ValidateHomeLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateHomeLink" duration-ms="55" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHomeLink -->
+        <test-method status="PASS" signature="ValidateAboutSirLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateAboutSirLink" duration-ms="65" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateAboutSirLink -->
+        <test-method status="PASS" signature="ValidateJavaSyllabusLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateJavaSyllabusLink" duration-ms="64" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateJavaSyllabusLink -->
+        <test-method status="PASS" signature="ValidateSeleniumTestingLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateSeleniumTestingLink" duration-ms="55" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSeleniumTestingLink -->
+        <test-method status="PASS" signature="ValidateVideosLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateVideosLink" duration-ms="54" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateVideosLink -->
+        <test-method status="PASS" signature="ValidateServicesLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateServicesLink" duration-ms="59" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateServicesLink -->
+        <test-method status="PASS" signature="ValidateCareersLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateCareersLink" duration-ms="66" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCareersLink -->
+        <test-method status="PASS" signature="ValidateMyBookLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateMyBookLink" duration-ms="67" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMyBookLink -->
+        <test-method status="PASS" signature="ValidateOldStudentFeedbackLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateOldStudentFeedbackLink" duration-ms="65" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateOldStudentFeedbackLink -->
+        <test-method status="PASS" signature="ValidateClassRoomExamplesLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateClassRoomExamplesLink" duration-ms="51" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateClassRoomExamplesLink -->
+        <test-method status="PASS" signature="ValidateContactLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateContactLink" duration-ms="52" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateContactLink -->
+        <test-method status="PASS" signature="ValidateInterviewQuestionsLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateInterviewQuestionsLink" duration-ms="49" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateInterviewQuestionsLink -->
+        <test-method status="PASS" signature="ValidateTutorialsLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateTutorialsLink" duration-ms="57" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTutorialsLink -->
+        <test-method status="PASS" signature="ValidateCorporateTrainingLink()[pri:0, instance:com.jbk.qa.Tests.HomePageTestCases@5a01ccaa]" name="ValidateCorporateTrainingLink" duration-ms="52" started-at="2019-04-24T11:23:07Z" finished-at="2019-04-24T11:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCorporateTrainingLink -->
+      </class> <!-- com.jbk.qa.Tests.HomePageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

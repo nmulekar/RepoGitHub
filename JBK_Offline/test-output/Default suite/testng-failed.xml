@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.jbk.qa.Tests.HomePageTestCases">
+        <methods>
+          <include name="ValidateOldStudentFeedbackLink"/>
+          <include name="ValidateSeleniumTestingLink"/>
+          <include name="ValidateCorporateTrainingLink"/>
+          <include name="ValidateTutorialsLink"/>
+          <include name="ValidateContactLink"/>
+          <include name="ValidateMyBookLink"/>
+          <include name="ValidateInterviewQuestionsLink"/>
+          <include name="ValidateJavaSyllabusLink"/>
+          <include name="ValidateServicesLink"/>
+          <include name="ValidateCareersLink"/>
+          <include name="ValidateHomeLink"/>
+          <include name="SetUp"/>
+          <include name="ValidateAboutSirLink"/>
+          <include name="ValidateVideosLink"/>
+          <include name="ValidateClassRoomExamplesLink"/>
+        </methods>
+      </class> <!-- com.jbk.qa.Tests.HomePageTestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
